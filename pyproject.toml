@@ -1,4 +1,3 @@
-```toml
 [build-system]
 requires = ["setuptools>=68.0", "wheel"]
 build-backend = "setuptools.build_meta"
@@ -63,10 +62,10 @@ all = [
 soda-cli = "soda.apply:main_cli"
 
 [project.urls]
-Homepage = "https://github.com/soda-research/soda-arc-core"
-Documentation = "https://soda-arc-core.readthedocs.io"
-Repository = "https://github.com/soda-research/soda-arc-core"
-Issues = "https://github.com/soda-research/soda-arc-core/issues"
+Homepage = "https://github.com/vandoanh1999/soda-arc-core"
+Documentation = "https://github.com/vandoanh1999/soda-arc-core"
+Repository = "https://github.com/vandoanh1999/soda-arc-core"
+Issues = "https://github.com/vandoanh1999/soda-arc-core/issues"
 
 [tool.setuptools]
 zip-safe = false
