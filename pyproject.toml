@@ -271,4 +271,3 @@ max-complexity = 10
 
 [tool.ruff.isort]
 known-first-party = ["soda"]
-
