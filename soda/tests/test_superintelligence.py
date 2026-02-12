@@ -1,4 +1,3 @@
-```python
 # test_superintelligence.py
 import numpy as np
 import torch
