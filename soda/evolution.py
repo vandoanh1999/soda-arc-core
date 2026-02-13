@@ -1,5 +1,4 @@
 # soda/evolution.py
-"""
 Self-Evolving Solver for ARC-like Grid Reasoning
 =================================================
 Architecture:
