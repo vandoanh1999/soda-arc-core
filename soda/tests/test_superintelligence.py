@@ -528,12 +528,6 @@ if __name__ == "__main__":
     print("\n")
     print("╔════════════════════════════════════════════════════════════════════════════╗")
     print("║                    ULTIMATE AGI VERIFICATION SUITE                         ║")
-    print("║                    Created by Claude (Anthropic)                           ║")
+    print("║                    Created by Van Doanh(Viet Nam)                           ║")
     print("║                           February 2026                                    ║")
     print("╚════════════════════════════════════════════════════════════════════════════╝")
-    
-    test_suite = TestSuite()
-    test_suite.run_all()
-    
-    benchmark = BenchmarkSuite()
-    benchmark.run_benchmarks()
